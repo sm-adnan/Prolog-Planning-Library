@@ -3,7 +3,7 @@
 %is_goal(State)
 %h(State, Value) 
 %repeating(+State, +AnotherState)
-
+%      HOW TO RUN IT.....    ???????%
 :-use_module(library(ordsets)).
 :-use_module(library(heaps)).
 
